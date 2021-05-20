@@ -615,7 +615,7 @@ Chp - heat plants
 ``key:`` 'chp-heat plants', ``value:`` `pandas.DataFrame() <https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html>`_
 
 This sheet covers CHP and heat plants. Each plant will feed into the
-`district heating` bus of the region it it is located. The demand of
+`district heating` bus of the region it is located. The demand of
 `district heating` is defined in the `heat demand series` table with the name
 `district heating`. All plants of the same region with the same fuel can be
 defined in one row but it is also possible to divide them by additional
